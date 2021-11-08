@@ -8,7 +8,7 @@
 <p align="center">
  
 ### Menu
- <img src="https://github.com/Aldi098/obfuscate/blob/main/IMG_20211106_181508.jpg" width="440" title="Menu" alt="Menu">
+ <img src="https://github.com/Aldi098/Wa/blob/main/Screenshot_20211108_234812.jpg" width="440" title="Menu" alt="Menu">
 </p>
 
 ## install
@@ -20,7 +20,7 @@ $ pkg install git
 $ pkg install bash
 $ git clone https://github.com/Aldi098/Wa
 $ cd Wa
-$ bash Install.sh
+$ bash install.sh
 
 ```
 
